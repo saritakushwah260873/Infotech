@@ -20,6 +20,18 @@ body {
 
 }
 
+::-webkit-scrollbar {
+    width: 15px;
+}
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #062A36;
+    border-radius: 10px;
+}
+
 
 ul,
 ol,
